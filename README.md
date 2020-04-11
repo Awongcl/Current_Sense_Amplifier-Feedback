@@ -1,4 +1,5 @@
 # Current_Sense_Amplifier-Feedback
+# (On-going, waiting for PCB to be manufactured)
 A current shunt amplifier circuit to provide feedback for other circuits.<br/>
 ## Goal:
 Develop a current feeback system via current shunt and a amplifier cicuit.
