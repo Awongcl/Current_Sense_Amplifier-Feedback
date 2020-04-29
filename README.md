@@ -1,5 +1,4 @@
-# Current_Sense_Amplifier-Feedback
-# (On-going, waiting for PCB to be manufactured)
+# Current_Sense_Amplifier-Feedback  (Completed)
 A current shunt amplifier circuit to provide feedback for other circuits.<br/>
 ## Goal:
 Develop a current feeback system via current shunt and a amplifier cicuit.
@@ -15,4 +14,8 @@ The specific use of this project is to provide a current feedback to a powerr su
 ## PCB:
 ![](Images/PCB.gif) 
 ## Product and testing:
+Actual PCB:
+![](Images/Product.jpg)
+Working condition:
+![](Images/Working.jpg) 
 
