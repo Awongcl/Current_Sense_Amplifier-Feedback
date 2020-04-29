@@ -28,9 +28,10 @@ After powering up the circuit, a few checks is performed.
 6. Output voltage is correct (Checked,OK)
  ## Conclusion
  Overall the circuit is working fine as intented.<br/>
- Only changes to the design is the amplification over the op-amp is slightly large then calculated, but it still workes perfectly.<br/>
+ Only changes to the design is the amplification over the op-amp is slightly larger then calculated, but it will still work.<br/>
  This circuit can be used for limtiing the current in a buck converter IC such as the LM2596.<br/>
- The output of this circuit will be connected to the feedback pin of the buck converter, so the current becomes the dominate domain.<br/>
+ The output of this circuit will be connected to the feedback pin of the buck converter, so the current becomes the dominating domain.<br/>
  When the reference voltage of the buck converter is higher then this circuit's output, it will lower the switching frequency to reduce  the volagte, vice versa if the voltage is lower.<br/>
  Tested with my LM2596, it is able to limited the current by lowering the voltage.
+ This is circuit will add current limiting features as a feedback circuit, it will be used in my PSU project and maybe other projects in the future.
  
