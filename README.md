@@ -10,7 +10,9 @@ The specific use of this project is to provide a current feedback to a powerr su
 1. Provie a current feeback proportional to the voltage. (1A = 1V)
 2. Acceptable voltage drop accross the current shunt. (0.2V MAX with 2A current)
 ## Implementation:
-### Schematic:
+## Schematic:
 ![](Images/Schematic.JPG) 
-### PCB:
+## PCB:
 ![](Images/PCB.gif) 
+## Product and testing:
+
